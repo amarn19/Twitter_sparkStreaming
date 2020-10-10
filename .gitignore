@@ -1,0 +1,7 @@
+Include/
+Lib/
+Scripts/
+Pipfile
+Pipfile.lock
+pyvenv.cfg
+.env
