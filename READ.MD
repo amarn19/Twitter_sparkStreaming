@@ -1,6 +1,6 @@
-commands:
-py -m venv src #create virtual env
-cd src
-.\Scripts\activate # activate virtual env
-pip install pipenv 
-pipenv requests python-dotenv
+commands:<br />
+py -m venv src #create virtual env<br />
+cd src<br />
+.\Scripts\activate # activate virtual env<br />
+pip install pipenv <br />
+pipenv requests python-dotenv<br />
